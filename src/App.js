@@ -7,6 +7,7 @@ import './App.css';
 
 
 
+
 class App extends Component { 
   render() {
     return(
@@ -20,5 +21,5 @@ class App extends Component {
     );
   }
 }
-
+//외부파일로 사용할수있도록 export해줌
 export default App;
